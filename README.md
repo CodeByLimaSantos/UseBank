@@ -8,7 +8,7 @@
 
 <h1>🏦 UserBank – Simple Bank Account Management System</h1>
 
-<p><strong>UserBank</strong> is a console-based <strong>Java application</strong> that simulates a basic banking system. Users can manage their accounts, make deposits, transfer funds, and access support through a simple menu-driven interface.</p>
+<p><strong>UserBank</strong> is a console-based <strong>Java application</strong> that simulates a basic banking system. Users can manage their accounts, make deposits, transfer funds.</p>
 
 <h2>🎯 Objectives</h2>
 <ul>
